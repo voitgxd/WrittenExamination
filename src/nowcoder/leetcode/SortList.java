@@ -16,7 +16,7 @@ public class SortList {
                 }
                 q = q.next;
             }
-            if(min != p) {
+            if (min != p) {
                 int val_tem = p.val;
                 p.val = min.val;
                 min.val = val_tem;
@@ -36,6 +36,7 @@ public class SortList {
         //2.排序
         //3.时间复杂度：O(n log n)
         //4.空间复杂度：O(n)
+        //5.总结：单链表冒泡排序需要3个指针
         ListNode node1, node2, node3;
         node1 = new ListNode(3);
         node2 = new ListNode(2);
@@ -43,7 +44,7 @@ public class SortList {
         node1.next = node2;
         node2.next = node3;
         ListNode result_node = sortList(node1);
-        for(ListNode p = result_node; p != null; p = p.next){
+        for (ListNode p = result_node; p != null; p = p.next) {
             System.out.println(p.val);
         }
     }

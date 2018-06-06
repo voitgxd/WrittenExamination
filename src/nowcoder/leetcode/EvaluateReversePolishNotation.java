@@ -44,7 +44,7 @@ public class EvaluateReversePolishNotation {
 
     public static void main(String[] args) {
         String[] expression = {"2", "1", "+", "3", "*"};
-        String[] expression2 = {"3","-4","+"};
+        String[] expression2 = {"3", "-4", "+"};
         System.out.println(evalRPN(expression));
         System.out.println(evalRPN(expression2));
     }
