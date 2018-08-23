@@ -1,6 +1,6 @@
 package nowcoder.swordToOffer;
 
-public class BynaryTreeNextNode {
+public class _08_BynaryTreeNextNode {
 
     public static TreeLinkNode getNext(TreeLinkNode pNode) {
         if (pNode.right != null) {

@@ -1,5 +1,5 @@
 package nowcoder.swordToOffer;
-
+import nowcoder.utils.ListNode;
 public class _24_ReverseListNode {
 
     public static ListNode reverseList(ListNode head) {

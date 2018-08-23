@@ -1,4 +1,6 @@
 package nowcoder.swordToOffer;
+import nowcoder.utils.ListNode;
+
 
 public class _22_KthNodeOfListNode {
 

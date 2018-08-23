@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.Stack;
 
-public class PrintLinkedListFromTailToHead {
+public class _06_PrintLinkedListFromTailToHead {
     // 四种方法：
     // 1.栈
     // 2.递归

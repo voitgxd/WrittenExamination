@@ -1,6 +1,6 @@
 package nowcoder.swordToOffer;
 
-public class DoublePower {
+public class _16_DoublePower {
 
     public static double power(double base, int exponent) {
         if (exponent == 0) {

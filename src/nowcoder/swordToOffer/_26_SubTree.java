@@ -4,36 +4,40 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
 
+import nowcoder.utils.TreeNode;
+
 public class _26_SubTree {
 
+    private static ArrayList<TreeNode> desNodes = new ArrayList<>();
+
     public static boolean HasSubtree(TreeNode root1, TreeNode root2) {
-        TreeNode des = findNode(root1, root2.val);
-        if (des == null) {
+        if (root1 == null || root2 == null) {
             return false;
         }
-        return isEqual(des, root2);
-    }
-
-    public static boolean isEqual(TreeNode root1, TreeNode root2) {
-        if ((root1 != null && root2 != null && root1.val != root2.val)) {
-            return false;
-        } else if (root1 != null && root2 != null && root1.val == root2.val) {
-            return true && isEqual(root1.left, root2.left) && isEqual(root1.right, root2.right);
+        findNode(root1, root2.val);
+        for (TreeNode des : desNodes) {
+            boolean result = isEqual(des, root2);
+            if (result)
+                return true;
         }
         return false;
     }
 
-    public static TreeNode findNode(TreeNode root1, int desVal) {
-        if (root1 == null || root1.val == desVal) {
-            return root1;
-        }
-        TreeNode leftResult = findNode(root1.left, desVal);
-        TreeNode rightResult = findNode(root1.right, desVal);
-        if (leftResult != null) {
-            return leftResult;
-        } else {
-            return rightResult;
-        }
+    public static boolean isEqual(TreeNode root1, TreeNode root2) {
+        if (root2 == null)
+            return true;
+        if (root1 == null || root1.val != root2.val)
+            return false;
+        return isEqual(root1.left, root2.left) && isEqual(root1.right, root2.right);
+    }
+
+    public static void findNode(TreeNode root1, int desVal) {
+        if (root1 == null)
+            return;
+        if (root1.val == desVal)
+            desNodes.add(root1);
+        findNode(root1.left, desVal);
+        findNode(root1.right, desVal);
     }
 
     public static String Serialize(TreeNode root) {
@@ -84,13 +88,30 @@ public class _26_SubTree {
         }
     }
 
+    // right solution
+    public static boolean HasSubtree2(TreeNode root1, TreeNode root2) {
+        if (root1 == null || root2 == null)
+            return false;
+        return isSubtreeWithRoot(root1, root2) || HasSubtree2(root1.left, root2) || HasSubtree2(root1.right, root2);
+    }
+
+    private static boolean isSubtreeWithRoot(TreeNode root1, TreeNode root2) {
+        if (root2 == null)
+            return true;
+        if (root1 == null)
+            return false;
+        if (root1.val != root2.val)
+            return false;
+        return isSubtreeWithRoot(root1.left, root2.left) && isSubtreeWithRoot(root1.right, root2.right);
+    }
+
 
     public static void main(String[] args) {
-        String treeStr1 = "8,8,7,9,2,#,#,#,#,4,7";
-        String treeStr2 = "8,9,2";
+        String treeStr1 = "8,#,9,3,2";
+        String treeStr2 = "";
         TreeNode node1 = Deserialize(treeStr1);
-        TreeNode node2 = Deserialize(treeStr2);
-        System.out.println(HasSubtree(node1, node2));
+//        TreeNode node2 = Deserialize(treeStr2);
+        System.out.println(HasSubtree(node1, null));
 
         String res = Serialize(node1);
         System.out.println(res);

@@ -1,7 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12ced5a7-c263-4b85-b51b-a48f60334c73" name="Default" comment="" />
+    <list default="true" id="12ced5a7-c263-4b85-b51b-a48f60334c73" name="Default" comment="reconstruct project contents">
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_27_MirrorTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_28_Symmetrical.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_29_PrintMatrixCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_30_MinStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_31_StackPopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_1_LayerPrintTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_2_LayerPrintTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_3_LayerPrintTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_33_VerifySquenceOfBST.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_34_FindPathSumEqualOneVal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_35_ComplexNodeListClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_36_ConvertBSTToDDL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_37_SerializeAndDeserializeTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_38_Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_39_ArrayElementFrequencyMoreHalf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_40_GetKLeaskNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_41_2_FirstAppearingOnce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_41_GetMedianLocNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_42_FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_43_NumberOf1Between1AndN_Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_45_PrintMinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_46_NumDecodings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/alibaba/CombinationBetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/alibaba/LeastStepsChangeNumberStringN1ToN2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/alibaba/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/pingduoduo/MaxSubSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/test_java/HeapInJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/test_java/PrintNumByDicOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/test_java/TestCyclicBarrier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/wangyi/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/wangyi/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/wangyi/Test3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/test/wangyi/TestClone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/utils/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/utils/SortUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/utils/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nowcoder/utils/TreeUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/leetcode/_03_MaxPointsOnALine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/leetcode/_03_MaxPointsOnALine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/leetcode/_04_SortList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/leetcode/_04_SortList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_03_DuplicatedNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_03_DuplicatedNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_04_SearchInTwoDimentionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_04_SearchInTwoDimentionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_06_PrintLinkedListFromTailToHead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_06_PrintLinkedListFromTailToHead" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_07_ReConstructBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_07_ReConstructBinaryTree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_08_BynaryTreeNextNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_08_BynaryTreeNextNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_11_RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_11_RotateArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_16_DoublePower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_16_DoublePower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_22_KthNodeOfListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_22_KthNodeOfListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_23_CircleListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_23_CircleListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_24_ReverseListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_24_ReverseListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_25_MergeSortedListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_25_MergeSortedListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_26_SubTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/nowcoder/swordToOffer/_26_SubTree.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -10,14 +63,121 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_43_NumberOf1Between1AndN_Solution.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_43_NumberOf1Between1AndN_Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_45_PrintMinNumber.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_45_PrintMinNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_46_NumDecodings.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_46_NumDecodings.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>matrix[r][c]</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="20" />
-    <option name="y" value="42" />
-    <option name="width" value="1400" />
-    <option name="height" value="788" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/nowcoder/leetcode/_03_MaxPointsOnALine.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_16_DoublePower.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_08_BynaryTreeNextNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_07_ReConstructBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_06_PrintLinkedListFromTailToHead.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/leetcode/_04_SortList.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/alibaba/LeastStepsChangeNumberStringN1ToN2.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/alibaba/CombinationBetter.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/alibaba/Main.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_29_PrintMatrixCircle.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_30_MinStack.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_11_RotateArray.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_03_DuplicatedNumber.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_04_SearchInTwoDimentionArray.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/test_java/HeapInJava.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_31_StackPopOrder.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_1_LayerPrintTree.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_2_LayerPrintTree.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/test_java/PrintNumByDicOrder.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_3_LayerPrintTree.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/pingduoduo/MaxSubSequence.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_34_FindPathSumEqualOneVal.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_35_ComplexNodeListClone.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_36_ConvertBSTToDDL.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/utils/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_37_SerializeAndDeserializeTree.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/wangyi/Test2.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/wangyi/Test3.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/wangyi/TestClone.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/wangyi/Test1.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/utils/TreeUtil.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_38_Permutation.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_33_VerifySquenceOfBST.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_22_KthNodeOfListNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/utils/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_23_CircleListNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_24_ReverseListNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_25_MergeSortedListNode.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_27_MirrorTree.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_28_Symmetrical.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_26_SubTree.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_39_ArrayElementFrequencyMoreHalf.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/utils/SortUtil.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/test/test_java/TestCyclicBarrier.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_40_GetKLeaskNumbers.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_41_GetMedianLocNum.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_42_FirstAppearingOnce.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_43_FindGreatestSumOfSubArray.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_43_NumberOf1Between1AndN_Solution.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_45_PrintMinNumber.java" />
+        <option value="$PROJECT_DIR$/src/nowcoder/swordToOffer/_46_NumDecodings.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -26,7 +186,6 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Course" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
@@ -36,13 +195,46 @@
               <item name="WrittenExamination" type="b2602c69:ProjectViewProjectNode" />
               <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="WrittenExamination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WrittenExamination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WrittenExamination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="swordToOffer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WrittenExamination" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WrittenExamination" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/gaoxudong/IdeaBitProjects/WrittenExamination/src/nowcoder/swordToOffer/singleton/LazySingletonThreadNotSafe.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
   </component>
   <component name="RunDashboard">
@@ -57,7 +249,62 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application._45_PrintMinNumber">
+    <configuration name="_41_2_FirstAppearingOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.swordToOffer._41_2_FirstAppearingOnce" />
+      <module name="WrittenExamination" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_41_GetMedianLocNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.swordToOffer._41_GetMedianLocNum" />
+      <module name="WrittenExamination" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_42_FindGreatestSumOfSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.swordToOffer._42_FindGreatestSumOfSubArray" />
+      <module name="WrittenExamination" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_43_NumberOf1Between1AndN_Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.swordToOffer._43_NumberOf1Between1AndN_Solution" />
+      <module name="WrittenExamination" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="_45_PrintMinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nowcoder.swordToOffer._45_PrintMinNumber" />
+      <module name="WrittenExamination" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nowcoder.swordToOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -99,6 +346,22 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application._41_GetMedianLocNum" />
+      <item itemvalue="Application._41_2_FirstAppearingOnce" />
+      <item itemvalue="Application._42_FindGreatestSumOfSubArray" />
+      <item itemvalue="Application._43_NumberOf1Between1AndN_Solution" />
+      <item itemvalue="Application._45_PrintMinNumber" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._45_PrintMinNumber" />
+        <item itemvalue="Application._43_NumberOf1Between1AndN_Solution" />
+        <item itemvalue="Application._42_FindGreatestSumOfSubArray" />
+        <item itemvalue="Application._41_2_FirstAppearingOnce" />
+        <item itemvalue="Application._41_GetMedianLocNum" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -110,6 +373,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526098248505</updated>
+      <workItem from="1530803169312" duration="98654000" />
+      <workItem from="1532593070146" duration="72491000" />
+      <workItem from="1533524582553" duration="2879000" />
+      <workItem from="1533629530826" duration="62387000" />
+      <workItem from="1534235920454" duration="31309000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1526099034031</created>
@@ -118,51 +386,642 @@
       <option name="project" value="LOCAL" />
       <updated>1526099034031</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit readme.md">
+      <created>1526101982993</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526101982993</updated>
+    </task>
+    <task id="LOCAL-00003" summary="four test">
+      <created>1527755355362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1527755355362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="six test">
+      <created>1528255356941</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528255356941</updated>
+    </task>
+    <task id="LOCAL-00005" summary="WordBreak2 commit">
+      <created>1530803422284</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1530803422284</updated>
+    </task>
+    <task id="LOCAL-00006" summary="sword to offer first 8 questions commit">
+      <created>1531736176349</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1531736176349</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update to 24">
+      <created>1532934595081</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1532934595082</updated>
+    </task>
+    <task id="LOCAL-00008" summary="reconstruct project contents">
+      <created>1533048029447</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1533048029447</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="267720000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="42" width="1400" height="788" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="8" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32848486" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5035765" side_tool="true" weight="0.3927273" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32969698" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4985694" weight="0.32848486" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26251787" />
+      <window_info anchor="right" id="Database" order="0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.49642345" visible="true" weight="0.3927273" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32969698" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="commit readme.md" />
+    <MESSAGE value="four test" />
+    <MESSAGE value="six test" />
+    <MESSAGE value="WordBreak2 commit" />
+    <MESSAGE value="sword to offer first 8 questions commit" />
+    <MESSAGE value="update to 24" />
+    <MESSAGE value="reconstruct project contents" />
+    <option name="LAST_COMMIT_MESSAGE" value="reconstruct project contents" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_03_DuplicatedNumber.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="317" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>heap.peek()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>set.add(trace);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>set</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>trace</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>canMove(r, c, threshold)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[r][c]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>str[pathLen]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matrix[0].length - 1</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/test_java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/test_java/HeapInJava.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/test_java/PrintNumByDicOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_3_LayerPrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="69" column="33" lean-forward="true" selection-start-line="69" selection-start-column="33" selection-end-line="69" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_2_LayerPrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_08_BynaryTreeNextNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/pingduoduo/MaxSubSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="46" column="15" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="206" column="10" selection-start-line="206" selection-start-column="4" selection-end-line="206" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/alibaba/CombinationBetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="98" column="33" lean-forward="true" selection-start-line="98" selection-start-column="33" selection-end-line="98" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/alibaba/LeastStepsChangeNumberStringN1ToN2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-480">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/alibaba/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_35_ComplexNodeListClone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_07_ReConstructBinaryTree">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="55" column="6" selection-start-line="55" selection-start-column="6" selection-end-line="55" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1919#1920#0" expanded="true" />
+            <element signature="e#1942#1943#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_36_ConvertBSTToDDL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/utils/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_37_SerializeAndDeserializeTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="32" lean-forward="true" selection-start-line="30" selection-start-column="32" selection-end-line="30" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/leetcode/_04_SortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/leetcode/_05_InsertionSortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-641">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/wangyi/TestClone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/wangyi/Test3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/wangyi/Test2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/wangyi/Test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="17" column="23" lean-forward="true" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/utils/TreeUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="158" column="26" lean-forward="true" selection-start-line="158" selection-start-column="26" selection-end-line="158" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_31_StackPopOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_32_1_LayerPrintTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_34_FindPathSumEqualOneVal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="79" column="1" lean-forward="true" selection-start-line="79" selection-start-column="1" selection-end-line="79" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/utils/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_22_KthNodeOfListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_26_SubTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_25_MergeSortedListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="31" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_24_ReverseListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_23_CircleListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_33_VerifySquenceOfBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_27_MirrorTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="51" lean-forward="true" selection-start-line="3" selection-start-column="51" selection-end-line="3" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_28_Symmetrical.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_39_ArrayElementFrequencyMoreHalf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_38_Permutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/concurrent/CyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/test/test_java/TestCyclicBarrier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/utils/SortUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="243" column="18" lean-forward="true" selection-start-line="243" selection-start-column="18" selection-end-line="243" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="149" column="8" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_40_GetKLeaskNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="47" column="53" lean-forward="true" selection-start-line="47" selection-start-column="53" selection-end-line="47" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="335" column="37" lean-forward="true" selection-start-line="335" selection-start-column="37" selection-end-line="335" selection-end-column="37" />
+          <folding>
+            <element signature="e#4779#4780#0" expanded="true" />
+            <element signature="e#4822#4823#0" expanded="true" />
+            <element signature="e#12158#12159#0" expanded="true" />
+            <element signature="e#12189#12190#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_41_GetMedianLocNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+            <element signature="e#556#557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_162.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="529" column="16" lean-forward="true" selection-start-line="529" selection-start-column="16" selection-end-line="529" selection-end-column="16" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+            <element signature="e#6351#6352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_41_2_FirstAppearingOnce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_42_FindGreatestSumOfSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_43_NumberOf1Between1AndN_Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_45_PrintMinNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nowcoder/swordToOffer/_46_NumDecodings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="26" lean-forward="true" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WrittenExamination</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>

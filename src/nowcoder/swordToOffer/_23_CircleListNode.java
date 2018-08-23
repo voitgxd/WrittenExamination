@@ -1,5 +1,5 @@
 package nowcoder.swordToOffer;
-
+import nowcoder.utils.ListNode;
 public class _23_CircleListNode {
 
     public static ListNode entryNodeOfLoop(ListNode pHead) {

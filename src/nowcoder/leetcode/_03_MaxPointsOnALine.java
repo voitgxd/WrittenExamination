@@ -2,7 +2,7 @@ package nowcoder.leetcode;
 
 import java.util.HashMap;
 
-public class MaxPointsOnALine {
+public class _03_MaxPointsOnALine {
 
     /**
      * 平面里确定一条直线要两个数据，可以是两个不同的点(高中数学做法)，也可以是一个点加一个斜率(这道题做法)

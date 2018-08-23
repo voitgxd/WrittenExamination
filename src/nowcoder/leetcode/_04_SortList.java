@@ -1,6 +1,6 @@
 package nowcoder.leetcode;
 
-public class SortList {
+public class _04_SortList {
 
     public static ListNode sortList(ListNode head) {
         //1.边界

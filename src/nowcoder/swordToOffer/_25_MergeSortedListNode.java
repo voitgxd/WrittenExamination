@@ -1,5 +1,5 @@
 package nowcoder.swordToOffer;
-
+import nowcoder.utils.ListNode;
 public class _25_MergeSortedListNode {
 
     public static ListNode Merge2(ListNode list1, ListNode list2) {

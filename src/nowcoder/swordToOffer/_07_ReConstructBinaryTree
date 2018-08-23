@@ -3,7 +3,7 @@ package nowcoder.swordToOffer;
 import java.util.HashMap;
 import java.util.Map;
 
-public class ReConstructBinaryTree {
+public class _07_ReConstructBinaryTree {
     private static Map<Integer, Integer> inOrderNumsIndexs = new HashMap<>();
 
     public static TreeNode reConstructBinaryTree(int[] pre, int[] in) {

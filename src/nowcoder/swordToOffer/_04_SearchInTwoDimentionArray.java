@@ -9,23 +9,14 @@ public class _04_SearchInTwoDimentionArray {
             return false;
         }
         int dim_1 = array[0].length;
-        int row_index = -1;
-        for (int i = 0; i < dim_0; i++) {
-            if (target <= array[i][dim_1 - 1]) {
-                row_index = i;
-                break;
-            }
-        }
-        if (row_index == -1) {
-            return false;
-        }
-        while (row_index < dim_0) {
-            for (int j = 0; j < dim_1; j++) {
-                if (target == array[row_index][j]) {
-                    return true;
-                }
-            }
-            row_index++;
+        int x = 0, y = dim_1 - 1;
+        while (x < dim_0 && y >= 0) {
+            if (array[x][y] == target)
+                return true;
+            if (x < dim_0 && y >= 0 && array[x][y] < target)
+                x++;
+            if (x < dim_0 && y >= 0 && array[x][y] > target)
+                y--;
         }
         return false;
     }
@@ -50,7 +41,7 @@ public class _04_SearchInTwoDimentionArray {
     }
 
     public static void main(String[] args) {
-        int[][] matrix = {{1, 2, 8, 9}, {2, 4, 9, 12}, {4, 7, 10, 13}, {6, 8, 11, 15}};
+        int[][] matrix = {{1, 2, 8, 9}, {4, 7, 10, 13}};
         System.out.println(find(2, matrix));
         System.out.println(find_2(2, matrix));
     }
